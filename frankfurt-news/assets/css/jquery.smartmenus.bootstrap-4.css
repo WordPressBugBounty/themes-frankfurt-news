@@ -1,0 +1,56 @@
+/*
+Theme Name: Frankfurt News
+Author: ThemeArile 
+Copyright (c) 2024 Frankfurt News
+http://www.themearile.com
+Name: jquery.smartmenus.bootstrap-4.css
+*/
+
+/* Carets in collapsible mode (make them look like +/- buttons) */
+
+.navbar-dark {
+    border-top: 2px solid #ebebeb;
+	background-color: #ffffff;
+}
+.navbar.navbar-dark .nav .menu-item .nav-link {
+    color: #1f2024;
+}
+@media (min-width: 992px) {
+    .navbar.navbar-dark .nav .menu-item:hover .nav-link, .navbar.navbar-dark .nav .menu-item.active .nav-link {
+        background-color: #b70b75 !important;
+		color: #ffffff;
+    }
+}
+
+.navbar.navbar-dark .theme-search-block > a {
+    color: #1f2024;
+}
+@media (max-width: 991px) {
+    .navbar.navbar-dark .nav .menu-item .nav-link {
+        border-bottom: 1px solid rgb(165 159 159 / 10%);
+    }
+}
+.navbar.navbar-dark .navbar-toggler {
+    border-color: rgba(31, 32, 36, 1);
+    border-radius: 0;
+    padding: 0.25rem 0.75rem;
+}
+.navbar.navbar-dark .nav .dropdown-menu {
+    background-color: #ffffff;
+}
+@media (min-width: 992px) {
+    .navbar.navbar-dark .nav .dropdown-item {
+        color: #1f2024;
+    }
+}
+@media (max-width: 991px) {
+    .navbar.navbar-dark .nav .dropdown-menu .dropdown-item {
+        color: #1f2024;
+    }
+}
+.navbar.navbar-dark .nav .dropdown-menu > .menu-item > ul.dropdown-menu > .menu-item > .dropdown-item {
+    color: #1f2024;
+}
+.navbar.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(31, 32, 36, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
