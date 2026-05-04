@@ -5,7 +5,7 @@ Template: newsexo
 Author: ThemeArile
 Author URI: https://themearile.com
 Description: Frankfurt News is a high-performance WordPress theme designed for modern publishers, news portals, and professional bloggers. Combining a sleek, minimalist aesthetic with a unique layout, it ensures your content is visually stunning and highly readable across all devices. Built with Core Web Vitals in mind, this SEO-ready theme is lightweight, lightning-fast, and effortless to customize. Whether you are running a high-traffic news editorial or a niche lifestyle blog, Frankfurt News delivers the speed and sophistication your brand deserves. It also has flexible and versatile layouts that are enough for essential needs, with unlimited colors, unlimited Google fonts, typography, responsive design, and Rtl language support. It is designed to be highly SEO-friendly that can help optimize your website on search engine performance, making it easier to find for potential visitors and the theme provides predefined beautiful demos that can be imported with one click in less time. Frankfurt News also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Gutenberg, Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of Frankfurt News Pro https://newsexo-pro-twelve.themearile.com/.
-Version: 1.8
+Version: 1.9
 Tested up to: 6.9
 Requires PHP: 5.6
 License: GNU General Public License v2 or later
@@ -399,6 +399,10 @@ body.page-template-default .blog-grid-view-post .sidebar .widget .list-view-post
 }
 .footer-sidebar .widget .wp-block-accordion-heading .wp-block-accordion-heading__toggle:hover, 
 .footer-sidebar .widget .wp-block-accordion-heading .wp-block-accordion-heading__toggle:focus {
+	border: 0px solid transparent;
+	background-color: transparent;
+}
+.footer-sidebar .widget .wp-block-accordion-heading .wp-block-accordion-heading__toggle {
 	border: 0px solid transparent;
 	background-color: transparent;
 }
