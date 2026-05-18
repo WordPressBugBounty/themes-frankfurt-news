@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.9
 Requires PHP: 5.6
-Stable tag: 1.9
-Version: 1.9
+Stable tag: 2.0
+Version: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -73,6 +73,9 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/775076
 
 == Changelog ==
+
+@Version 2.0
+* We added the default color of the wp-block-list link for the footer sidebar widgets area.
 
 @Version 1.9
 * We have removed the onhover border color of the accordion widget in the footer sidebar widget area.

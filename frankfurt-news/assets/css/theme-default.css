@@ -558,7 +558,9 @@ input[type="submit"]:focus {
 .footer-sidebar .widget .logged-out.wp-block-loginout a {
     color: #b70b75;
 }
-
+.footer-sidebar .widget .wp-block-list li a {
+    color: #b70b75;
+}
 
 /*--------------------------------------------------------------
 =>> Footer Copyrights - Site Info - Footer Menu
