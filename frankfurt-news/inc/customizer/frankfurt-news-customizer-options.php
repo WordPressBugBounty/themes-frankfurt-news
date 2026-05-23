@@ -15,7 +15,7 @@ function frankfurt_news_customizer_theme_settings( $wp_customize ){
 		$wp_customize->add_setting( 'newsexo_footer_copright_text',
 		array(
 			'sanitize_callback' =>  'frankfurt_news_sanitize_text',
-			'default' => __('Copyright &copy; 2025 | Powered by <a href="//wordpress.org/">WordPress</a>', 'frankfurt-news'),
+			'default' => __('Copyright &copy; 2026 | Powered by <a href="//wordpress.org/">WordPress</a>', 'frankfurt-news'),
 			'transport' => $selective_refresh,
 		));	
 		$wp_customize->add_control( 'newsexo_footer_copright_text',

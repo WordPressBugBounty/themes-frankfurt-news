@@ -2,10 +2,10 @@
 Contributors: ThemeArile
 Author: ThemeArile
 Requires at least: WordPress 4.7
-Tested up to: WordPress 6.9
+Tested up to: WordPress 7.0
 Requires PHP: 5.6
-Stable tag: 2.0
-Version: 2.0
+Stable tag: 2.1
+Version: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -73,6 +73,9 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/775076
 
 == Changelog ==
+
+@Version 2.1
+* We fixed the copyright string in the customizer-options.php and footer.php files.
 
 @Version 2.0
 * We added the default color of the wp-block-list link for the footer sidebar widgets area.
