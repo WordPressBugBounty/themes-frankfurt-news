@@ -499,6 +499,9 @@ input[type="submit"]:focus {
 .sidebar .widget .wp-block-heading a {
     color: #b70b75;
 }
+.sidebar .widget .wp-block-list li a {
+    color: #b70b75;
+}
 /*Footer Sidebar Update Released*/
 .footer-sidebar .widget .wp-block-heading a {
     color: #b70b75;
