@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 7.0
 Requires PHP: 5.6
-Stable tag: 2.2
-Version: 2.2
+Stable tag: 2.4
+Version: 2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -73,6 +73,12 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/775076
 
 == Changelog ==
+
+@Version 2.4
+* We added the default color of the wp-block-verse link for the footer sidebar widgets area.
+
+@Version 2.3
+* We added the default color of the wp-block-verse link for the sidebar widgets area.
 
 @Version 2.2
 * We added the default color of the wp-block-list link for the sidebar widgets area.
