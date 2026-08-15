@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 7.0
 Requires PHP: 5.6
-Stable tag: 2.5
-Version: 2.5
+Stable tag: 2.6
+Version: 2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -73,6 +73,9 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/775076
 
 == Changelog ==
+
+@Version 2.6
+* We have fixed the breadcrumbs widget space in the footer widget area.
 
 @Version 2.5
 * We have fixed the breadcrumbs widget space in the sidebar widget area.
