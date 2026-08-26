@@ -4,11 +4,11 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 7.0
 Requires PHP: 5.6
-Stable tag: 2.6
-Version: 2.6
+Stable tag: 2.7
+Version: 2.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
+Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout, wide-blocks, block-styles, block-patterns
 
 == Description ==
 
