@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 7.0
 Requires PHP: 5.6
-Stable tag: 2.7
-Version: 2.7
+Stable tag: 2.8
+Version: 2.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout, wide-blocks, block-styles, block-patterns
@@ -73,6 +73,9 @@ License: MIT (http://opensource.org/licenses/MIT)
   https://pxhere.com/en/photo/775076
 
 == Changelog ==
+
+= Version 2.8
+* We added the top space to the wp-block-tab-panels in the wp-block-tabs sidebar widget.
 
 @Version 2.6
 * We have fixed the breadcrumbs widget space in the footer widget area.
